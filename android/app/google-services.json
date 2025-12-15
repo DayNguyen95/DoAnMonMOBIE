@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "791650293748",
+    "project_id": "nhatkychitieuapp",
+    "storage_bucket": "nhatkychitieuapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:791650293748:android:5890ebee70b55ab7224ba1",
+        "android_client_info": {
+          "package_name": "com.example.nhatkychitieu"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsWK0643C2c6cAjbehY3br4tRYo2B8Dgg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
